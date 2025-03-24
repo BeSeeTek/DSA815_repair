@@ -24,6 +24,29 @@ All output filterCaps look suspicious and many of them have <1 μF capacitance l
 | C111       |  100 μF     | 35 V   | CapXon | KF 105 °C |
 | C107       |  68 μF      | 450 V   | CapXon | KF 105 °C |
 
+**Comparison Table:**
+
+| Designator(s)                 | Original CapXon KF Series Specifications | Recommended Replacement (Nichicon UPW Series) | Mouser Part Number | Mouser Link |
+|-------------------------------|------------------------------------------|----------------------------------------------|--------------------|-------------|
+| C102, C103, C108, C113, C114, C115 | 1000 μF, 16 V, 5 mm lead spacing        | 1000 μF, 16 V, 5 mm lead spacing             | 647-UPW1C102MHD    | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW1C102MHD) |
+| C110, C120                    | 470 μF, 35 V, 5 mm lead spacing          | 470 μF, 35 V, 5 mm lead spacing              | 647-UPW1V471MPD    | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW1V471MPD) |
+| C203, C212, C124, C121        | 330 μF, 35 V, 5 mm lead spacing          | 330 μF, 35 V, 5 mm lead spacing              | 647-UPW1V331MPD    | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW1V331MPD) |
+| C219, C130                    | 22 μF, 100 V, 5 mm lead spacing          | 22 μF, 100 V, 5 mm lead spacing              | 647-UPW2A220MPD    | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW2A220MPD) |
+| C204                          | 47 μF, 50 V, 5 mm lead spacing           | 47 μF, 50 V, 5 mm lead spacing               | 647-UPW1H470MED    | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW1H470MED) |
+| C111                          | 100 μF, 35 V, 5 mm lead spacing          | 100 μF, 35 V, 5 mm lead spacing              | 647-UPW1V101MPD    | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW1V101MPD) |
+| C107                          | 68 μF, 450 V, 7.5 mm lead spacing        | 68 μF, 450 V, 7.5 mm lead spacing            | 647-UPW2W680MPD    | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW2W680MPD) |
+
+**Bill of Materials (BOM) replacement:**
+
+| Quantity | Mouser Part Number | Description                                 | Voltage | Capacitance | Lead Spacing | Mouser Link |
+|----------|--------------------|---------------------------------------------|---------|-------------|--------------|-------------|
+| 6        | 647-UPW1C102MHD    | 1000 μF 16V Aluminum Electrolytic Capacitor | 16 V    | 1000 μF     | 5 mm         | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW1C102MHD) |
+| 2        | 647-UPW1V471MPD    | 470 μF 35V Aluminum Electrolytic Capacitor  | 35 V    | 470 μF      | 5 mm         | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW1V471MPD) |
+| 4        | 647-UPW1V331MPD    | 330 μF 35V Aluminum Electrolytic Capacitor  | 35 V    | 330 μF      | 5 mm         | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW1V331MPD) |
+| 2        | 647-UPW2A220MPD    | 22 μF 100V Aluminum Electrolytic Capacitor  | 100 V   | 22 μF       | 5 mm         | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW2A220MPD) |
+| 1        | 647-UPW1H470MED    | 47 μF 50V Aluminum Electrolytic Capacitor   | 50 V    | 47 μF       | 5 mm         | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW1H470MED) |
+| 1        | 647-UPW1V101MPD    | 100 μF 35V Aluminum Electrolytic Capacitor  | 35 V    | 100 μF      | 5 mm         | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW1V101MPD) |
+| 1        | 647-UPW2W680MPD    | 68 μF 450V Aluminum Electrolytic Capacitor  | 450 V   | 68 μF       | 7.5 mm       | [Link](https://www.mouser.com/ProductDetail/Nichicon/UPW2W680MPD) |
 
 ## Switch Mode controllers
 
