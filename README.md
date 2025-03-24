@@ -22,6 +22,7 @@ All output filterCaps look suspicious and many of them have <1 μF capacitance l
 | C124       |  330 μF     | 35 V   | CapXon | KF 105 °C |
 | C121       |  330 μF     | 35 V   | CapXon | KF 105 °C |
 | C111       |  100 μF     | 35 V   | CapXon | KF 105 °C |
+| C107       |  68 μF      | 450 V   | CapXon | KF 105 °C |
 
 
 ## Switch Mode controllers
