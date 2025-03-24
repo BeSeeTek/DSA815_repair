@@ -22,3 +22,15 @@ All output filterCaps look suspicious and many of them have <1 μF capacitance l
 | C124       |  330 μF     | 35 V   | CapXon | KF 105 °C |
 | C121       |  330 μF     | 35 V   | CapXon | KF 105 °C |
 | C111       |  100 μF     | 35 V   | CapXon | KF 105 °C |
+
+
+## Switch Mode controllers
+
+Main [TEA1755LT
+HV start-up DCM/QR flyback controller with integrated
+DCM/QR PFC controller](https://www.mouser.de/datasheet/2/302/TEA1755LT-3139535.pdf)
+
+Standby [ICE3B0565J Off-Line SMPS Current Mode
+Controller with integrated 650V
+CoolMOS ® and Startup cell
+(frequency jitter Mode) in DIP-8](https://www.mouser.de/datasheet/2/196/Infineon_ICE3BXX65J_DS_v02_09_en-1226717.pdf) 
