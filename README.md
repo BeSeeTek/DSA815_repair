@@ -35,3 +35,14 @@ Standby [ICE3B0565J Off-Line SMPS Current Mode
 Controller with integrated 650V
 CoolMOS ® and Startup cell
 (frequency jitter Mode) in DIP-8](https://www.mouser.de/datasheet/2/196/Infineon_ICE3BXX65J_DS_v02_09_en-1226717.pdf) 
+
+## Fets
+
+[2SK3569 ](https://www.mouser.com/datasheet/2/408/2SK3569_datasheet_en_20100129-1760726.pdf?srsltid=AfmBOoqOfAcmhnEl1CbtQnjtN7u57uDR2veouXWp1996Qa7RFYuwRC6d)
+[SPI11N60C3](https://www.infineon.com/dgdl/Infineon-SPP_I_A11N60C3_E8185-DS-v03_03-EN.pdf?fileId=db3a3043163797a6011638a2fdee01a3)
+
+## Diodes
+[MBR B10100](https://www.mouser.com/catalog/specsheets/mbr10100.pdf?srsltid=AfmBOora0FWSBqrYTXQP6bggfBUvFZGf9zUhdGbjF-tB9XX7xbbk-SA4)
+[HY ES2D](https://assets.nexperia.com/documents/data-sheet/ES2D.pdf)
+
+
