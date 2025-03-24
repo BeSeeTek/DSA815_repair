@@ -11,3 +11,14 @@ All output filterCaps look suspicious and many of them have <1 μF capacitance l
 | C113       | 1000 μF     | 16 V    | CapXon | KF 105 °C |
 | C114       | 1000 μF     | 16 V    | CapXon | KF 105 °C |
 | C120       |  470 μF     | 35 V    | CapXon | KF 105 °C |
+| C110       |  470 μF     | 35 V    | CapXon | KF 105 °C |
+| C203       |  330 μF     | 35 V    | CapXon | KF 105 °C |
+| C212       |  330 μF     | 35 V    | CapXon | KF 105 °C |
+| C219       |  22 μF      | 100 V   | CapXon | KF 105 °C |
+| C130       |  22 μF      | 100 V   | CapXon | KF 105 °C |
+| C204       |  470 μF     | 50 V    | CapXon | KF 105 °C |
+| C108       |  1000 μF    | 16 V   | CapXon | KF 105 °C |
+| C115       |  1000 μF    | 16 V   | CapXon | KF 105 °C |
+| C124       |  330 μF     | 35 V   | CapXon | KF 105 °C |
+| C121       |  330 μF     | 35 V   | CapXon | KF 105 °C |
+| C111       |  100 μF     | 35 V   | CapXon | KF 105 °C |
